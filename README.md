@@ -1,1 +1,1 @@
-This is a continue of my python's course.
+This is a continuation of my python's course.
