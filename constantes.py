@@ -11,6 +11,7 @@ if entrada.isdigit():  # checando se foi digitado um número
     par_impar_text = 'impar'
 
     if par_impar:
+        
         par_impar_text = 'par'
         
     print(f'O número {entrada_int} é {par_impar_text}')
